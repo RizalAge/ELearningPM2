@@ -1,16 +1,29 @@
-# latihanshared
+# ELearningPM2
 
-A new Flutter project.
+Aplikasi Flutter untuk mata kuliah **Pemrograman Mobile 2**.  
+Project ini merupakan latihan penggunaan **Flutter + SQLite**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Fitur Aplikasi
+- CRUD Notes (Tambah, Baca, Edit, Hapus)
+- Penyimpanan lokal (SQLite)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshot Aplikasi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Baca](screenshots/1.png)
+
+![Hapus](screenshots/2.png)
+
+![Simpan](screenshots/3.png)
+
+
+## Video Demo Aplikasi
+ [Demo App - Google Drive](https://drive.google.com/file/d/PASTE_LINK_KAMU_DI_SINI/view)**
+
+
+- Mata Kuliah: Pemrograman Mobile 2
+- Project: Latihan Shared Preferences
