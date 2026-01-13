@@ -22,7 +22,7 @@ Project ini merupakan latihan penggunaan **Flutter + SQLite**.
 
 
 ## Video Demo Aplikasi
- [Demo App - Google Drive](https://drive.google.com/file/d/PASTE_LINK_KAMU_DI_SINI/view)**
+ [Demo App - Google Drive](https://drive.google.com/drive/folders/1d4KTzf-t_KoLZvjZ0CDU3B-X06-k3LwC?usp=drive_link)**
 
 
 - Mata Kuliah: Pemrograman Mobile 2
